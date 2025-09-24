@@ -1,7 +1,7 @@
 # HTML & CSS Website Template
 
 A simple and responsive website template built using HTML and CSS, featuring Font Awesome icons.
-
+![preview](./image.jpg)
 ## 🧰 Built With
 
 - HTML5
